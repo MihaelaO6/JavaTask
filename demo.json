@@ -1,0 +1,48 @@
+[  {
+  "name": "Mihaela",
+  "student": false,
+  "grades": 18.0,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Ana",
+    "student": true,
+    "grades": 30.5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },{
+  "name": "Jovan",
+  "student": true,
+  "grades": 22.0,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Ema",
+    "student": true,
+    "grades": 14.5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Tina",
+    "student": false,
+    "grades": 28.0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Jana",
+    "student": false,
+    "grades": 10.0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Petar",
+    "student": false,
+    "grades": 20.0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "name": "Tomi",
+    "student": false,
+    "grades": 12.0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
